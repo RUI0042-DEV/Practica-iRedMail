@@ -108,6 +108,7 @@ exemple: 192.168.56.202/mail/
 ![alt text](<pics/Captura de pantalla 2026-04-22 204217.png>)
 
 
+---
 
 - Donar d’alta dos usuaris i comprovar com poden rebre correus entre sí.
 
@@ -115,11 +116,15 @@ exemple: 192.168.56.202/mail/
 
 ![alt text](<pics/Captura de pantalla 2026-04-22 204725.png>)
 
+---
+
 - Enviar un correu a un correu vostre de gmail des d’un dels usuaris. Veuràs que va a correu brossa. Investiga perquè.
 
 ![alt text](<pics/Captura de pantalla 2026-04-16 202000.png>)
 
 El fet que els correus enviats des del teu servidor (iRedMail) vagin a la bústia de correu brossa (spam) de Gmail és un comportament molt comú en servidors nous o de prova. Això passa perquè Google aplica filtres de seguretat molt estrictes per evitar el phishing i el correu brossa.
+
+---
 
 - Podeu enviar un correu de resposta cap el vostre servidor? Per què?
 
@@ -129,15 +134,21 @@ Perquè el domini que el domini (serveis11.test) no existeix a la xarxa pública
 
 Els servidors de correu externs (com Gmail) necessiten consultar els registres DNS mundials per saber a quina adreça IP han d'enviar el missatge. Com que l'extensió .test està reservada per a proves locals i no està registrada oficialment, Gmail no pot "trobar" el teu servidor i el missatge és retornat com a fallit.
 
+---
+
 - Crear un segon domini que es digui alumneX.test i fer un usuari de prova (usuari). Envieu correus entre usuaris dels dos dominis.
 
 ![alt text](<pics/Captura de pantalla 2026-04-22 195018.png>)
+
+---
 
 - Crear i eliminar un usuari de correu d’algun dels dominis.
 
 ![alt text](<pics/Captura de pantalla 2026-04-22 205538.png>)
 
 ![alt text](<pics/Captura de pantalla 2026-04-22 205534.png>)
+
+---
 
 - Mirar quina informació es disposa als logs.
 
