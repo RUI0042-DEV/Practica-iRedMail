@@ -153,3 +153,6 @@ Els servidors de correu externs (com Gmail) necessiten consultar els registres D
 - Mirar quina informació es disposa als logs.
 
 ![alt text](<pics/Captura de pantalla 2026-04-22 205803.png>)
+
+
+[Tornar enrere](README.md)
